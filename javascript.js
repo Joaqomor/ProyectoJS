@@ -1,4 +1,3 @@
-/* 
 debugger
 var material = prompt("Ingrese el tipo de material que desea sacar del inventario");
 var cantidad = parseInt(prompt("ingrese la cantidad que desea"));
@@ -15,9 +14,7 @@ else if (resul == 0) {
 }
 else {
     alert("No tienes stock suficiente")
-} */
-
-
+} 
 
     
 
